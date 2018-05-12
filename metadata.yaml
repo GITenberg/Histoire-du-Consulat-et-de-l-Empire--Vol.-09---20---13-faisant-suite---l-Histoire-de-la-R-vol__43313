@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3191
     wikipedia: http://en.wikipedia.org/wiki/Adolphe_Thiers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43313#Histoire-du-Consulat-et-de-l-Empire--Vol.-09---20---13-faisant-suite---l-Histoire-de-la-R-vol_
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2013-07-26'
 gutenberg_type: Text
